@@ -1,0 +1,21 @@
+* { margin: 0; padding: 0; }
+
+ul {
+  list-style: none;
+}
+
+canvas {
+  margin-top: 100px;
+  margin-left: 200px;
+}
+
+#result {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  width: 200px;
+  border: 1px solid #f1f1f1;
+  padding: 16px;
+  background-color: mistyrose;
+  user-select: none;
+}
